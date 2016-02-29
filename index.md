@@ -8,16 +8,16 @@ layout: default
 * [Cape Town Green](http://taxi.projectcodex.co/)
 * [Playing With Matches](http://matches.projectcodex.co/)
 * [Where Can I JavaScript?](http://where.projectcodex.co/)
-* Node intro
-* [53 functions](https://github.com/codex-academy/53functions)
+* [Node intro](http://node.projectcodex.co/)
+* [53 functions](http://53.projectcodex.co)
 * [The Best Of Deals](http://bestdeal.projectcodex.co/)
-* Nelisa
+* [Nelisa](http://nelisa.projectcodex.co/)
 
 ## Workshops / Katas
 
 * [Ferry Kata](http://ferry.projectcodex.co/)
 * [Itemised Bill](http://codex-academy.github.io/ItemisedBill/)
-* Git Flow
+* [Git Flow](http://gitflow.projectcodex.co/)
 * [Front-end Frameworks](http://fef.projectcodex.co/)
 
 ## Assessments
