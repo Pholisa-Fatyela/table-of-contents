@@ -22,6 +22,7 @@ layout: default
 
 ## Assessments
 
+* [Balloon Kata](http://balloon.projectcodex.co/)
 * Lighthouse keeper checker
 * Colourful clothing
 * Party drinks tracking
