@@ -18,11 +18,19 @@ layout: default
 * [Ferry Kata](http://ferry.projectcodex.co/)
 * [Itemised Bill](http://codex-academy.github.io/ItemisedBill/)
 * [Git Flow](http://gitflow.projectcodex.co/)
-* [Front-end Frameworks](http://fef.projectcodex.co/)
+* [The Dojo](http://dojo.projectcodex.co/)
+* [Function fun](http://fun.projectcodex.co/)
 
 ## Assessments
 
 * [Balloon Kata](http://balloon.projectcodex.co/)
+* [Burners and Earners](http://cell.projectcodex.co/)
 * Lighthouse keeper checker
 * Colourful clothing
 * Party drinks tracking
+
+## Other stuff
+
+* [Front-end Frameworks](http://fef.projectcodex.co/)
+* [Grid examples](http://grid.projectcodex.co/)
+* [JS Checker](http://checker.projectcodex.co/)
