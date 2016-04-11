@@ -15,7 +15,8 @@ layout: default
     * [ExpressJS intro](http://expressjs.projectcodex.co/)     
     * [Database basics](http://database.projectcodex.co/) 
     * [Authentication & Authorization intro](http://auth.projectcodex.co/)
-    * [Cleancode](http://cleancode.projectcodex.co)
+    * [Ajax & Search intro] (http://search.projectcodex.co)
+    * [Clean Code](http://cleancode.projectcodex.co)
 
 ## Workshops / Katas
 
