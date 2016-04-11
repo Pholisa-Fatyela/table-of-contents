@@ -12,6 +12,10 @@ layout: default
 * [53 functions](http://53.projectcodex.co)
 * [The Best Of Deals](http://bestdeal.projectcodex.co/)
 * [Nelisa](http://nelisa.projectcodex.co/)
+    * [ExpressJS intro](http://expressjs.projectcodex.co/)     
+    * [Database basics](http://database.projectcodex.co/) 
+    * [Authentication & Authorization intro](http://auth.projectcodex.co/)
+    * [Cleancode](http://cleancode.projectcodex.co)
 
 ## Workshops / Katas
 
@@ -20,10 +24,11 @@ layout: default
 * [Git Flow](http://gitflow.projectcodex.co/)
 * [The Dojo](http://dojo.projectcodex.co/)
 * [Function fun](http://fun.projectcodex.co/)
+* [Smartie Pants](http://smarties.projectcodex.co) - algorithm basics
 
 ## Assessments
 
-* [Balloon Kata](http://balloon.projectcodex.co/)
+* be[Balloon Kata](http://balloon.projectcodex.co/)
 * [Burners and Earners](http://cell.projectcodex.co/)
 * Lighthouse keeper checker
 * Colourful clothing
