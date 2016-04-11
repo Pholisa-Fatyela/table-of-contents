@@ -14,9 +14,10 @@ layout: default
 * [Nelisa](http://nelisa.projectcodex.co/)
     * [ExpressJS intro](http://expressjs.projectcodex.co/)     
     * [Database basics](http://database.projectcodex.co/) 
+    * [Deployment*](http://deploy.projectcodex.co/)
     * [Authentication & Authorization intro](http://auth.projectcodex.co/)
-    * [Ajax & Search intro] (http://search.projectcodex.co)
-    * [Clean Code](http://cleancode.projectcodex.co)
+    * [Ajax & Search intro*] (http://search.projectcodex.co)
+    * [Clean Code*](http://cleancode.projectcodex.co)
 
 ## Workshops / Katas
 
@@ -25,11 +26,11 @@ layout: default
 * [Git Flow](http://gitflow.projectcodex.co/)
 * [The Dojo](http://dojo.projectcodex.co/)
 * [Function fun](http://fun.projectcodex.co/)
-* [Smartie Pants](http://smarties.projectcodex.co) - algorithm basics
+* [Smartie Pants*](http://smarties.projectcodex.co) - algorithm basics
 
 ## Assessments
 
-* be[Balloon Kata](http://balloon.projectcodex.co/)
+* [Balloon Kata](http://balloon.projectcodex.co/)
 * [Burners and Earners](http://cell.projectcodex.co/)
 * Lighthouse keeper checker
 * Colourful clothing
