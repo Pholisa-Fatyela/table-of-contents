@@ -13,7 +13,7 @@ layout: default
 * [The Best Of Deals](http://bestdeal.projectcodex.co/)
 * [Nelisa](http://nelisa.projectcodex.co/)
     * [ExpressJS intro](http://expressjs.projectcodex.co/)     
-    * [Database basics](http://database.projectcodex.co/) 
+    * [Database basics](http://database.projectcodex.co/)
     * [Deployment*](http://deploy.projectcodex.co/)
     * [Authentication & Authorization intro](http://auth.projectcodex.co/)
     * [Ajax & Search intro*](http://search.projectcodex.co)
@@ -27,6 +27,7 @@ layout: default
 * [The Dojo](http://dojo.projectcodex.co/)
 * [Function fun](http://fun.projectcodex.co/)
 * [Smartie Pants*](http://smarties.projectcodex.co) - algorithm basics
+* [Taxi Trippin'](http://search.projectcodex.co) - algorithms on arrays of objects
 
 ## Assessments
 
