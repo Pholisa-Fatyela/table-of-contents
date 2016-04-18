@@ -17,7 +17,7 @@ layout: default
     * [Deployment*](http://deploy.projectcodex.co/)
     * [Authentication & Authorization intro](http://auth.projectcodex.co/)
     * [Ajax & Search intro*](http://search.projectcodex.co)
-    * [Clean Code*](http://cleancode.projectcodex.co)
+    * [Clean Code](http://cleancode.projectcodex.co)
 
 ## Workshops / Katas
 
