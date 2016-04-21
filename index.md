@@ -22,7 +22,7 @@ layout: default
 ## Workshops / Katas
 
 * [Ferry Kata](http://ferry.projectcodex.co/)
-* [Itemised Bill](http://codex-academy.github.io/ItemisedBill/)
+* [Itemised Bill](http://itemisedbill.projectcodex.co/)
 * [Git Flow](http://gitflow.projectcodex.co/)
 * [The Dojo](http://dojo.projectcodex.co/)
 * [Function fun](http://fun.projectcodex.co/)
