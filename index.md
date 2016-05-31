@@ -11,6 +11,7 @@ layout: default
 * [Node intro](http://node.projectcodex.co/)
 * [53 functions](http://53.projectcodex.co)
 * [The Best Of Deals](http://bestdeal.projectcodex.co/)
+* [Nelisa Narrative](http://narrative.projectcodex.co/)
 * [Nelisa](http://nelisa.projectcodex.co/)
     * [ExpressJS intro](http://expressjs.projectcodex.co/)     
     * [Database basics](http://database.projectcodex.co/)
