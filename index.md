@@ -38,8 +38,14 @@ layout: default
 * Colourful clothing
 * Party drinks tracking
 
-## Other stuff
+## Front-end
 
+* [Intro to Front-end](http://fintro.projectcodex.co/)
+* [Front-end Field Guide](http://fefg.projectcodex.co/)
 * [Front-end Frameworks](http://fef.projectcodex.co/)
 * [Grid examples](http://grid.projectcodex.co/)
+
+
+## Other stuff
+
 * [JS Checker](http://checker.projectcodex.co/)
