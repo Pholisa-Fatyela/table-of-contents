@@ -28,7 +28,7 @@ layout: default
 * [The Dojo](http://dojo.projectcodex.co/)
 * [Function fun](http://fun.projectcodex.co/)
 * [Smartie Pants*](http://smarties.projectcodex.co) - algorithm basics
-* [Taxi Trippin'](http://search.projectcodex.co) - algorithms on arrays of objects
+* [Taxi Trippin'](http://trippin.projectcodex.co/) - algorithms on arrays of objects
 
 ## Assessments
 
