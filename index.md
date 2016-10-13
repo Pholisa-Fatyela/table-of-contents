@@ -46,7 +46,7 @@ layout: default
 
 * [Object Orientation intro](http://oh-oh.projectcodex.co)
 * [Search and Sort algorithms](http://search-and-sort.projectcodex.co)
-* [Create online documentation](#)
+* [Create online documentation](http://readme.projectcodex.co)
 
 ## Front-end
 
