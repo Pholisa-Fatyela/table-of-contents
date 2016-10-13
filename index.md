@@ -38,6 +38,16 @@ layout: default
 * Colourful clothing
 * Party drinks tracking
 
+## Bootcamp
+
+* [Bootcamp curriculum](http://bootcamp.projectcodex.co)
+
+## SETA accredited courses
+
+* [Object Orientation intro](http://oh-oh.projectcodex.co)
+* [Search and Sort algorithms](http://search-and-sort.projectcodex.co)
+* [Create online documentation](#)
+
 ## Front-end
 
 * [Intro to Front-end](http://fintro.projectcodex.co/)
