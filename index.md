@@ -4,7 +4,13 @@ layout: default
 
 # codeX curriculum
 
+## codeX foundation
 * [codeX Setup Intro](http://intro.projectcodex.co/)
+   * [Front End basics](http://frontend-basics.projectcodex.co/)
+   * [Back End basics](http://backend-basics.projectcodex.co/) `*tbc`
+ 
+ ## Other
+   
 * [Cape Town Green](http://taxi.projectcodex.co/)
 * [Playing With Matches](http://matches.projectcodex.co/)
 * [Where Can I JavaScript?](http://where.projectcodex.co/)
